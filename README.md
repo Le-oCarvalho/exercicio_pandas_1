@@ -1,5 +1,5 @@
 # exercicio_pandas_1
-é um repositório de treino e exercicios de analise de dados usando a biblioteca pandas
+Repositório de treino e exercicios de analise de dados usando a biblioteca pandas
 
 O objetivo do exercicio era analisar uma base dados proveniente de uma empresa que presta serviços e, a partir disso, descobrir o seguinte: 
 1 - Valor total da folha salárial dos funcionários
