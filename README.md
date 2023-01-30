@@ -10,3 +10,8 @@ O objetivo do exercicio era analisar uma base dados proveniente de uma empresa q
 6 - Qual o ticket médio mensal (faturamento médio mensal) dos contratos?
 
 Código foi escrito usando o Jupyter Notebook, pela facilidade de uso e a melhor visualização dos dados proporcionada pela plataforma
+
+Conclusões da Analise: 
+1 - O gasto com a folha salárial chega quase a metade do faturamento total da empresa;
+2 - A porcentagem de funcionários que fechou contrato é alta, mas com espaço para melhora;
+3 - Os contratos estão bem distribuidos, tendo um pico alto no setor Admistrativo, porém faltam dados para investigar uma razão.
